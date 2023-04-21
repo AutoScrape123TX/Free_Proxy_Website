@@ -14,6 +14,22 @@
 
 ### 提供免费代理的网站（排名不分先后）
 
+* https://www.proxychecker.ai/proxy-checker
+
+  * - [ ] 是否要开科学上网
+
+  * - [x] 在线验证代理是否可用
+
+  * 特色
+
+    * 提供 http/https/socks5
+
+    * 支持筛选条件：多种
+
+    * 可直接复制全部代理ip:port  
+    
+<br>
+
 * https://checkerproxy.net/
 
   * - [ ] 是否要开科学上网
